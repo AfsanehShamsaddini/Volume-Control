@@ -1,10 +1,7 @@
 <div align="center">
   <h1> Volume Control Using OpenCV and MediaPipe</h1>
 
-https://github.com/AfsanehShamsaddini/Volume-Control/assets/107355829/5c0f961f-5296-4998-b6d8-7b6af225a584
-
-
-  
+ 
  </div>
 
 > This Project uses OpenCV and MediaPipe to Control system volume 
